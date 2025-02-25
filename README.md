@@ -1,4 +1,4 @@
-[![MasterHead]([http:ile istediginiz fotoğrafın linkini buraya yazın](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoe3OYbVRTvquAerESGMSka_ny4rTuO45C9w&s))
+ [![MasterHead](https://krtknadmn.karatekin.edu.tr/files/mf/slide/eefcf5154e20499481cb839148a1c030.png)
 <h1 align="center">Hi 👋, I'm Fatih AKSOY</h1>
 <h3 align="center">I am an electrical and electronics engineering student.</h3>
 
